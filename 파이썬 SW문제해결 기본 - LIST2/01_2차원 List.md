@@ -69,7 +69,7 @@ mylist = [list(map(int, input().split())) for _ in range(n)]
 5. 2차원 List 의 순회
 
    - 행 우선 순회 
-     ![image-20200130141014557](img/image-20200130141014557.png)
+     ![image-20200130141014557](../img/image-20200130141014557.png)
 
      
 
@@ -116,9 +116,9 @@ mylist = [list(map(int, input().split())) for _ in range(n)]
 
 6. 2차원리스트 인덱스 구하기 ( 예시. 5x5 행렬 )
 
-![image-20200202173843891](img/image-20200202173843891.png)
+![image-20200202173843891](../img/image-20200202173843891.png)
 
-![image-20200202173909713](img/image-20200202173909713.png)
+![image-20200202173909713](../img/image-20200202173909713.png)
 
 ```python
 0,0 => 1
@@ -166,7 +166,7 @@ for i in range(4**2):
 
 1. 일반적인 알고리즘 방법으로 풀기
 
-![image-20200205163443287](img/image-20200205163443287.png)
+![image-20200205163443287](../img/image-20200205163443287.png)
 
 
 
